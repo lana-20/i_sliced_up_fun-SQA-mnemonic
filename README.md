@@ -39,7 +39,7 @@ Source: http://www.kohl.ca/2022/i-sliced-up-fun-mobile-testing-infographic/
     - [ ] Geolocation Errors
         - [ ] Changing the language and checking the app for correctness
     - [ ] Losing Connection
-        - [ ] Does the app crash?
+        - [ ] Check if the app crashes
         - [ ] Proper Error Message
 
 
@@ -70,3 +70,91 @@ Source: http://www.kohl.ca/2022/i-sliced-up-fun-mobile-testing-infographic/
     - [ ] Video Call
     - [ ] Push Notification from other apps
     - [ ] File Transfer / Sharing App Notification
+    
+    
+- [ ] __Communication__
+    - [ ] Phone Calls
+        - [ ] Receive Call
+        - [ ] Reject Call
+        - [ ] Allow the call to end
+    - [ ] Email
+    - [ ] Instant Messaging App
+        - [ ] Facebook Messenger
+        - [ ] Whatsapp
+    - [ ] Text Message
+        - [ ] View Message
+    - [ ] Video Call
+    - [ ] Push Notification from other apps
+    - [ ] File Transfer / Sharing App Notification
+
+
+- [ ] __Ergonomics__
+    - [ ] Font
+        - [ ] Font Color
+        - [ ] Font Size
+    - [ ] Image Size
+    - [ ] Shortcuts to Decrease Physical Strain
+    - [ ] Check if end user has to type a lot
+    - [ ] Multi Screen Test
+
+
+- [ ] __Data__
+    - [ ] Files
+        - [ ] Upload Different File Sizes
+        - [ ] Upload Different File Types
+    - [ ] Media
+        - [ ] Audio
+        - [ ] Video
+    - [ ] Special Characters
+    - [ ] Unicode Characters
+    - [ ] Text
+    - [ ] Check behavior when a data update error occurs
+
+
+- [ ] __Usability__
+    - [ ] Orientation
+        - [ ] Landscape
+        - [ ] Portrait
+    - [ ] Check for Complex Steps
+    - [ ] Check that Labels are provide in Forms
+    - [ ] Ease of Navigation
+    - [ ] Scroll Bar Provided or Not
+    - [ ] Easy to Add / Remove Items
+    - [ ] Check for Bad Color Contrast
+    - [ ] Inconsistency in User Interface
+    - [ ] Compare with other apps of same type
+
+
+- [ ] __Platform__
+    - [ ] Running the app on different versions it supports
+    - [ ] Testing on Different Devices
+    - [ ] Update and check for support
+
+
+- [ ] __Function__
+    - [ ] Tout the app
+    - [ ] Test/find all the app Features
+    - [ ] Match the Functionality with requirements, claims and other docs
+    - [ ] Check for Useful Error Messages
+
+
+- [ ] __User Scenarios__
+    - [ ] Find the End User of the App
+    - [ ] Create User Scenarios 
+        - [ ] How is the app to be tested?
+        - [ ] What problem does it solve for the user?
+    - [ ] Consider different demographic samples (age categories, for example)
+
+
+- [ ] __Network__
+    - [ ] Different Network Speeds
+    - [ ] WiFi
+        - [ ] Moving from One WiFi Network to Another WiFi Network
+        - [ ] Moving out of the WiFi Range
+    - [ ] Mobile Data
+    - [ ] Airplane Mode
+        - [ ] Dead Spots
+
+
+    
+    
