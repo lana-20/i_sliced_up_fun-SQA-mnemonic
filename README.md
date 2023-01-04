@@ -21,7 +21,7 @@ Source: http://www.kohl.ca/2022/i-sliced-up-fun-mobile-testing-infographic/
         - [ ] Two Finger Scroll
     - [ ] Voice Input
     - [ ] Built-in Keypad / Keyboard Input
-    - [ ] Barcode Scanner Inout
+    - [ ] Barcode Scanner Input
 
 
 
@@ -37,7 +37,7 @@ Source: http://www.kohl.ca/2022/i-sliced-up-fun-mobile-testing-infographic/
         - [ ] Wireless to Broadband
         - [ ] One WiFi Network to Another WiFi Network
     - [ ] Geolocation Errors
-        - [ ] Changing the language and checking the app for correctness
+        - [ ] Changing the Language and checking the app for correctness
     - [ ] Losing Connection
         - [ ] Check if the app crashes
         - [ ] Proper Error Message
@@ -116,7 +116,7 @@ Source: http://www.kohl.ca/2022/i-sliced-up-fun-mobile-testing-infographic/
         - [ ] Landscape
         - [ ] Portrait
     - [ ] Check for Complex Steps
-    - [ ] Check that Labels are provide in Forms
+    - [ ] Check that Labels are provided in Forms
     - [ ] Ease of Navigation
     - [ ] Scroll Bar Provided or Not
     - [ ] Easy to Add / Remove Items
