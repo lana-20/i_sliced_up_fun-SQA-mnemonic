@@ -10,6 +10,8 @@ I use it as a checklist for testing mobile applications.
 
 Source: http://www.kohl.ca/2022/i-sliced-up-fun-mobile-testing-infographic/
 
+## Mobile App Testing Checklist
+
 - [ ] __Input into the Device__
     - [ ] Different Touch
         - [ ] Tap
