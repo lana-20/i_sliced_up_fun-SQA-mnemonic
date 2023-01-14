@@ -101,6 +101,7 @@ way and interact with it so that it causes the app you are testing to crash or f
     - [ ] Check if end user has to type a lot
     - [ ] Multi Screen Test
 
+<img width="638" alt="Screenshot 2023-01-13 at 10 32 59 PM" src="https://user-images.githubusercontent.com/70295997/212459301-80e43173-98d1-4a89-9638-5aaa1eb3e4b4.png">
 
 - [ ] __Data__
     - [ ] Files
@@ -114,6 +115,7 @@ way and interact with it so that it causes the app you are testing to crash or f
     - [ ] Text
     - [ ] Check behavior when a data update error occurs
 
+<img width="638" alt="Screenshot 2023-01-13 at 10 33 45 PM" src="https://user-images.githubusercontent.com/70295997/212459327-399b8e17-50e4-467f-8873-217f9e6f432c.png">
 
 - [ ] __Usability__
     - [ ] Orientation
@@ -128,12 +130,14 @@ way and interact with it so that it causes the app you are testing to crash or f
     - [ ] Inconsistency in User Interface
     - [ ] Compare with other apps of same type
 
+<img width="638" alt="Screenshot 2023-01-13 at 10 34 59 PM" src="https://user-images.githubusercontent.com/70295997/212459374-702075aa-4433-406d-bb90-bec21b1a5723.png">
 
 - [ ] __Platform__
     - [ ] Running the app on different versions it supports
     - [ ] Testing on Different Devices
     - [ ] Update and check for support
 
+<img width="638" alt="Screenshot 2023-01-13 at 10 35 35 PM" src="https://user-images.githubusercontent.com/70295997/212459387-34a85301-38a1-467e-8662-96af8310db93.png">
 
 - [ ] __Function__
     - [ ] Tour the app
@@ -141,6 +145,7 @@ way and interact with it so that it causes the app you are testing to crash or f
     - [ ] Match the Functionality with requirements, claims and other docs
     - [ ] Check for Useful Error Messages
 
+<img width="638" alt="Screenshot 2023-01-13 at 10 36 07 PM" src="https://user-images.githubusercontent.com/70295997/212459399-e8ae7e7d-9ebb-49e9-aefe-63aa299f3013.png">
 
 - [ ] __User Scenarios__
     - [ ] Find the End User of the App
@@ -149,6 +154,7 @@ way and interact with it so that it causes the app you are testing to crash or f
         - [ ] What problem does it solve for the user?
     - [ ] Consider different demographic samples (age categories, for example)
 
+<img width="638" alt="Screenshot 2023-01-13 at 10 36 51 PM" src="https://user-images.githubusercontent.com/70295997/212459421-1167f29e-22f6-4ee4-87fa-4cbda496b569.png">
 
 - [ ] __Network__
     - [ ] Different Network Speeds
