@@ -132,7 +132,7 @@ Source: http://www.kohl.ca/2022/i-sliced-up-fun-mobile-testing-infographic/
 
 
 - [ ] __Function__
-    - [ ] Tout the app
+    - [ ] Tour the app
     - [ ] Test/find all the app Features
     - [ ] Match the Functionality with requirements, claims and other docs
     - [ ] Check for Useful Error Messages
