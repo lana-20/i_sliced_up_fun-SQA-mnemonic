@@ -272,9 +272,7 @@ for items and ensuring they are there and function the way they are supposed to.
 
 __U: USER SCENARIOS__
 
-This is an incredibly powerful method of finding problems. In fact, if I am limited to one type of testing
-approach in a short period of time, this is often the one I will choose. (Check out [Cem Kaner’s paper](https://kaner.com/pdfs/ScenarioIntroVer4.pdf) on scenario testing to help get started.) This is a fun way to use the application: imagine two or three real users that you know, and think what they would do when using the application. Try to think of creative users: I always imagine that one annoying family member who struggles with technology and always wants me to fix their computer or mobile phone. If I pretend to be that person, what kinds of problems would they find? What would they struggle with? I also imagine a more technical user, and someone in between. I try to think
-of real people and how they would react to using the software. To create scenarios, I identify the following:
+This is an incredibly powerful method of finding problems. In fact, if I am limited to one type of testing approach in a short period of time, this is often the one I will choose. (Check out [Cem Kaner’s paper](https://github.com/lana-20/mobile-app-testing-checklist/blob/main/Scenario-Testing.pdf) on scenario testing to help get started.) This is a fun way to use the application: imagine two or three real users that you know, and think what they would do when using the application. Try to think of creative users: I always imagine that one annoying family member who struggles with technology and always wants me to fix their computer or mobile phone. If I pretend to be that person, what kinds of problems would they find? What would they struggle with? I also imagine a more technical user, and someone in between. I try to think of real people and how they would react to using the software. To create scenarios, I identify the following:
 
 ✔ How is this application supposed to be used?
 
@@ -282,8 +280,7 @@ of real people and how they would react to using the software. To create scenari
 
 ✔ What are the goals of end users that this application helps them solve?
 
-I then create scenarios based on that information. For example, if I think of a busy office worker, I set up a
-scenario with my phone so that it has a lot of emails, texts and meeting reminders occurring while I use the app. You can get very creative here, with a lot of other application interaction, as well as trying to quickly solve a problem or enjoy an experience with a device under different conditions.
+I then create scenarios based on that information. For example, if I think of a busy office worker, I set up a scenario with my phone so that it has a lot of emails, texts and meeting reminders occurring while I use the app. You can get very creative here, with a lot of other application interaction, as well as trying to quickly solve a problem or enjoy an experience with a device under different conditions.
 
 - [ ] __User Scenarios__
     - [ ] Find the End User of the App
@@ -320,7 +317,7 @@ The network controlled by a service provider and how well it performs is not som
 ## I SLICED UP FUN testing framework for mobile apps
 
 I SLICED UP FUN is a testing mnemonic/framework for mobile apps developed by Jonathan Kohl.
-Jonathan in his turn, was inspired by [James Bach’s](https://github.com/lana-20/mobile-app-testing-checklist/blob/main/Heuristic%20Test%20Strategy%20Model.pdf) SFDPOT (San Francisco Depot), a testing mnemonic that explores product elements.
+Jonathan in his turn, was inspired by James Bach’s [SFDPOT (San Francisco Depot)](https://github.com/lana-20/mobile-app-testing-checklist/blob/main/SFDPOT%20by%20James%20Bach.pdf), a testing mnemonic that explores product elements.
 
 <img src="https://github.com/lana-20/mobile-testing-checklist/blob/main/islicedupfun_jonathankohl-1.png">
 <img src="https://github.com/lana-20/mobile-app-testing-checklist/blob/main/Mobile%20Apps%20Testing%20-%20I%20SLICED%20UP%20FUN.png">
