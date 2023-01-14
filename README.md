@@ -323,10 +323,3 @@ Jonathan in his turn, was inspired by James Bach’s [SFDPOT (San Francisco Depo
 <img src="https://github.com/lana-20/mobile-app-testing-checklist/blob/main/Mobile%20Apps%20Testing%20-%20I%20SLICED%20UP%20FUN.png">
 
 Source: http://www.kohl.ca/2022/i-sliced-up-fun-mobile-testing-infographic/
-
-    
-Here is another MAT mindmap:
-
-![image](https://user-images.githubusercontent.com/70295997/212463986-7c54e64a-4b88-4ebb-b0b6-3c257f00787f.png)
-
-Source: http://adventuresinqa.com/2016/01/11/mobile-testing-cheat-sheet/
