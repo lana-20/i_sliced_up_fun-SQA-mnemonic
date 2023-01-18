@@ -1,5 +1,7 @@
 # <img width="40" src="https://user-images.githubusercontent.com/70295997/213096282-0973084e-6f27-4a66-9b94-e267178f1873.png"> Mobile App Testing Checklist 
 
+<img width="400" src="https://user-images.githubusercontent.com/70295997/213099501-bfdc2545-05f7-4747-a68d-2ec312451928.png">
+
 When testing an application, I begin by examining its functions starting with the installation process. I follow any provided instructions and take a tour of the app. Then, I assess the settings on my test device to identify potential interference with the application. I also consider how different users may use the app and map out scenarios. As I navigate through the app, I make note of any issues with usability. Next, I check my network options and test the app with different connections. Lastly, I evaluate interactions, interruptions and other factors to identify any bugs. It's important to come up with your own ideas and not be limited by this mnemonic.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/213098505-96788397-2b7a-4d5e-87e0-bad1aa8ee945.png">
