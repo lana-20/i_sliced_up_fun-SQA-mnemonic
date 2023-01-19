@@ -10,7 +10,7 @@ When testing an application, I begin by examining its functions starting with th
 
 __I: INPUTS INTO THE DEVICE__
 
-These represent the ways you can interact and control the device. Including:
+These represent the ways you can [interact and control the device](https://github.com/lana-20/mobile-app-ui-components#readme). Including:
 
 ✔ Buttons
 
@@ -20,7 +20,7 @@ These represent the ways you can interact and control the device. Including:
 
 ✔ Built-in keyboard/keypad
 
-✔ Touch screen [gestures](https://github.com/lana-20/touchscreen-gestures) and typing
+✔ [Touch screen gestures](https://github.com/lana-20/touchscreen-gestures) and typing
 
 ✔ Synching with other devices
 
