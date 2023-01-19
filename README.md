@@ -20,7 +20,7 @@ These represent the ways you can interact and control the device. Including:
 
 ✔ Built-in keyboard/keypad
 
-✔ Touch screen gestures and typing
+✔ Touch screen [gestures](https://github.com/lana-20/touchscreen-gestures) and typing
 
 ✔ Synching with other devices
 
@@ -49,7 +49,7 @@ way and interact with it so that it causes the app you are testing to crash or f
 
 __S: STORE__
 
-Mobile apps tend to get distributed online through special stores. The most well known are Apple’s App Store and the Android Market. For test ideas, try to find out information about the requirements of application requirements for store submissions. Sometimes finding out what store(s) the app will be submitted to and looking at any public documentation available that outlines guidelines can be a treasure trove of testing ideas.
+Mobile apps tend to get distributed online through special [stores](https://github.com/lana-20/mobile-app-stores). The most well known are Apple’s App Store and the Android Play Store. For test ideas, try to find out information about the requirements of application requirements for store submissions. Sometimes finding out what store(s) the app will be submitted to and looking at any public documentation available that outlines guidelines can be a treasure trove of testing ideas.
 
 See if you can find anything that might have been missed by looking for:
 
