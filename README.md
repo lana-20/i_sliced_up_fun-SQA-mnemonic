@@ -98,9 +98,7 @@ Also, your location is often different from where the application is developed. 
 
 __I: INTERACTIONS/INTERRUPTIONS__
 
-Mobile applications have far more hardware restrictions when they operate than other computers. They have less memory and less processing power than a PC, for example. As a result, they are susceptible to problems when other applications or operating system functions are running. It’s important to test how the app behaves when other
-applications running at the same time. Furthermore, any changes made to the device’s preferences can have an effect on your app. See how interaction with other programs, particularly built-in, native applications and the application you are testing interact. On mobile devices, they can cause your app to fail. You have to be very conscious of your
-memory footprint and how you shut down and clean up.
+Mobile applications have far more hardware restrictions when they operate than other computers. They have less memory and less processing power than a PC, for example. As a result, they are susceptible to problems when other applications or operating system functions are running. It’s important to test how the app behaves when other applications running at the same time. Furthermore, any changes made to the device’s preferences can have an effect on your app. See how interaction with other programs, particularly built-in, native applications and the application you are testing interact. On mobile devices, they can cause your app to fail. You have to be very conscious of your memory footprint and how you shut down and clean up.
 
 Are there problems when:
 
@@ -119,7 +117,7 @@ Another interesting interaction is with any timebased notification, such as cale
 - [ ] __Interactions / Interruptions__
     - [ ] Alarms
     - [ ] Network Interruptions
-    - [ ] Low Battery
+    - [ ] [Low Battery](https://developer.android.com/topic/performance/power/test-power#adb-battery)
     - [ ] Calendar Reminder
     - [ ] Push Notification from other apps
     - [ ] Connecting / Disconnecting Hardware
