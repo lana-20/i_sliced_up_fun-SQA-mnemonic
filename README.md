@@ -2,7 +2,7 @@
 
 <img width="400" src="https://user-images.githubusercontent.com/70295997/213336523-120c5605-64cb-4058-af08-d6f7babba385.png">
 
-When testing an application, I begin by examining its functions starting with the installation process. I follow any provided instructions and take a tour of the app. Then, I assess the settings on my test device to identify potential interference with the application. I also consider how different users may use the app and map out scenarios. As I navigate through the app, I make note of any issues with usability. Next, I check my network options and test the app with different connections. Lastly, I evaluate interactions, interruptions and other factors to identify any bugs. It's important to come up with your own ideas and not be limited by this mnemonic.
+When testing an application, I begin by examining its [functions](https://github.com/lana-20/i_sliced_up_fun-SQA-mnemonic/edit/main/README.md#:~:text=check%20for%20support-,F%3A%20FUNCTION,-Functional%20testing%20is) starting with the installation process. I follow any provided instructions and take a tour of the app. Then, I assess the settings on my test device to identify potential interference with the application. I also consider how different users may use the app and map out scenarios. As I navigate through the app, I make note of any issues with usability. Next, I check my network options and test the app with different connections. Lastly, I evaluate interactions, interruptions and other factors to identify any bugs. It's important to come up with your own ideas and not be limited by this mnemonic.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/213098505-96788397-2b7a-4d5e-87e0-bad1aa8ee945.png">
 
@@ -310,12 +310,12 @@ Mobile apps that require network connectivity such as an internet connection are
 The network controlled by a service provider and how well it performs is not something we can control. We can find out whether apps work well with the network we are using or not, and let the developers know about the problems you see.
 
 - [ ] __Network__
-    - [ ] Different Network Speeds
+    - [ ] [Different Network Speeds](https://developer.android.com/studio/run/emulator-commandline#:~:text=%2D-,netdelay%20delay,-Sets%20network%20latency)
     - [ ] WiFi
         - [ ] Moving from One WiFi Network to Another WiFi Network
         - [ ] Moving out of the WiFi Range
     - [ ] Mobile Data
-    - [ ] Airplane Mode
+    - [ ] [Airplane Mode](https://developer.android.com/topic/performance/vitals/crash#networking_exceptions)
         - [ ] Dead Spots
 
 ## I SLICED UP FUN testing framework for mobile apps
