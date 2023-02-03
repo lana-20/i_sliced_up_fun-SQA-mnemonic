@@ -244,7 +244,7 @@ __P: PLATFORM__
 Looking at the device that the application needs to run on is important. You may have a device that the programmers do not have access to, and their app may not work at all, or may work poorly. Your unique device is something that they are depending on you to test the application, so careful observation and documentation of problems, large or small is
 important. Also be aware of changes to your device. You have little control over operating system updates. The provider encourages you to update these, for good reasons. However, new versions can cause an app to fail that worked in a prior version. Be aware that updates (even small ones) can cause an application to stop working. Be sure to find out all the technical information about what device you are using, and what operating system version you have installed when logging a bug.
 
-- [ ] __Platform__
+- [ ] __[Platform](https://github.com/lana-20/select-devices-for-testing#readme)__
     - [ ] Running the app on different versions it supports
     - [ ] Testing on Different Devices
     - [ ] Update and check for support
