@@ -299,7 +299,7 @@ Mobile apps that require network connectivity such as an internet connection are
 
 ✔ Dead spots
 
-✔ Moving from one data network to another (eg. wifi to wifi, wifi to wireless broadband, wireless broadband to wifi, others)
+✔ [Moving from one data network to another](https://github.com/lana-20/mobile-network-generations#readme) (eg. wifi to wifi, wifi to wireless broadband, wireless broadband to wifi, others)
 
 The network controlled by a service provider and how well it performs is not something we can control. We can find out whether apps work well with the network we are using or not, and let the developers know about the problems you see.
 
