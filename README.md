@@ -28,7 +28,7 @@ These represent the ways you can [interact and control the device](https://githu
 
 ✔ Hold the device differently when inputting – be creative!
 
-Test the application and try out all the inputs that you can think of. If it's a touch device, make sure you try different gesture combinations with your fingers. Keep a thumb on the edge of the screen and try to type, or tap your fingers on the device while using it. If it rotates to portrait and landscape modes, make sure you try in different modes. See if the application behaves strangely when you rotate it and try to manipulate with touch gestures or typing on a keyboard.
+Test the application and try out all the inputs that you can think of. If it's a touch device, make sure you try different gesture combinations with your fingers. Keep a thumb on the edge of the screen and try to type, or tap your fingers on the device while using it. If it rotates to portrait and landscape modes, make sure you try in different modes. See if the application behaves strangely when you rotate it and try to [manipulate with touch gestures or typing on a keyboard](https://developer.android.com/studio/run/emulator-commandline#:~:text=Sets%20emulated%20touch%20screen%20mode).
 
 Even the way devices are held can impact their connectivity and how well they respond to application inputs. Can you hold the device in such a
 way and interact with it so that it causes the app you are testing to crash or freeze up? What happens if you launch the application in each supported orientation of the device? (Sideways, upside down, straight up, etc.)
