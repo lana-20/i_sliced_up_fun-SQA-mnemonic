@@ -309,7 +309,7 @@ The network controlled by a service provider and how well it performs is not som
         - [ ] Moving from One WiFi Network to Another WiFi Network
         - [ ] Moving out of the WiFi Range
     - [ ] Mobile Data
-    - [ ] [Airplane Mode](https://developer.android.com/topic/performance/vitals/crash#networking_exceptions)
+    - [ ] [Airplane Mode](https://developer.android.com/topic/performance/vitals/crash#networking_exceptions:~:text=try%20turning%20on-,airplane%20mode,-while%20your%20application)
         - [ ] Dead Spots
 
 ## I SLICED UP FUN testing framework for mobile apps
