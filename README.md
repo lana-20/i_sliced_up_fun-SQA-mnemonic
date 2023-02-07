@@ -2,7 +2,7 @@
 
 <img width="400" src="https://user-images.githubusercontent.com/70295997/213336523-120c5605-64cb-4058-af08-d6f7babba385.png">
 
-When testing an application, I begin by examining its [functions](https://github.com/lana-20/i_sliced_up_fun-SQA-mnemonic/blob/main/README.md#:~:text=check%20for%20support-,F%3A%20FUNCTION,-Functional%20testing%20is) starting with the installation process. I follow any provided instructions and take a tour of the app. Then, I assess the settings on my test device to identify potential interference with the application. I also consider how different users may use the app and map out scenarios. As I navigate through the app, I make note of any issues with usability. Next, I check my network options and test the app with different connections. Lastly, I evaluate interactions, interruptions and other factors to identify any bugs. It's important to come up with your own ideas and not be limited by this mnemonic.
+When testing an application, I begin by examining its [functions](https://github.com/lana-20/i_sliced_up_fun-SQA-mnemonic/blob/main/README.md#:~:text=check%20for%20support-,F%3A%20FUNCTION,-Functional%20testing%20is) starting with the installation process. I follow any provided instructions and take a tour of the app. Then, I assess the settings on my test device to identify potential interference with the application. I also consider how different users may use the app and map out scenarios. As I navigate through the app, I make note of any issues with usability. Next, I [check my network options and test the app with different connections](https://developer.android.com/studio/run/emulator-console#:~:text=Network%20connection%20status). Lastly, I evaluate interactions, interruptions and other factors to identify any bugs. It's important to come up with your own ideas and not be limited by this mnemonic.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/213098505-96788397-2b7a-4d5e-87e0-bad1aa8ee945.png">
 
@@ -14,7 +14,7 @@ These represent the ways you can [interact and control the device](https://githu
 
 ✔ Buttons
 
-✔ Bio inputs
+✔ [Bio inputs](https://developer.android.com/studio/run/emulator-console#finger-print)
 
 ✔ Voice Control
 
@@ -220,9 +220,7 @@ Furthermore, any data that is coming from a server or third party can have an ef
 
 __U: USABILITY__
 
-These can be some of the most important bugs to find and log, because they are the issues that often frustrate end users the most. When you are testing the application, note and log any issues that make you uncomfortable, frustrated, angry, or upset. To find usability issues, look for any actions that are awkward, confusing, or slow. Listen to your emotions – that’s an important source of usability issues. Instructions can be incomplete or misleading, items
-can be labeled incorrectly, and there may be workflows that make doing what you want to do difficult. If there are aspects of the application that you don’t like and frustrate you, log them as usability issues. Sometimes installation, setup or upgrading an app can have complicated steps. Are there any strange configuration interactions with your phone's settings or hardware? Some device updates require switching power off, removing batteries, and other
-things that may be difficult for non-technical users to do. Highlight anything cumbersome, frustrating or confusing for the development team.
+These can be some of the most important bugs to find and log, because they are the issues that often frustrate end users the most. When you are testing the application, note and log any issues that make you uncomfortable, frustrated, angry, or upset. To find usability issues, look for any actions that are awkward, confusing, or slow. Listen to your emotions – that’s an important source of usability issues. Instructions can be incomplete or misleading, items can be labeled incorrectly, and there may be workflows that make doing what you want to do difficult. If there are aspects of the application that you don’t like and frustrate you, log them as usability issues. Sometimes installation, setup or upgrading an app can have complicated steps. Are there any strange configuration interactions with your phone's settings or hardware? Some device updates require [switching power off, removing batteries](https://developer.android.com/studio/run/emulator-console#:~:text=Power%20state%20controls), and other things that may be difficult for non-technical users to do. Highlight anything cumbersome, frustrating or confusing for the development team.
 
 - [ ] __Usability__
     - [ ] Orientation
@@ -241,8 +239,7 @@ things that may be difficult for non-technical users to do. Highlight anything c
 
 __P: PLATFORM__
 
-Looking at the device that the application needs to run on is important. You may have a device that the programmers do not have access to, and their app may not work at all, or may work poorly. Your unique device is something that they are depending on you to test the application, so careful observation and documentation of problems, large or small is
-important. Also be aware of changes to your device. You have little control over operating system updates. The provider encourages you to update these, for good reasons. However, new versions can cause an app to fail that worked in a prior version. Be aware that updates (even small ones) can cause an application to stop working. Be sure to find out all the technical information about what device you are using, and what operating system version you have installed when logging a bug.
+Looking at the device that the application needs to run on is important. You may have a device that the programmers do not have access to, and their app may not work at all, or may work poorly. Your unique device is something that they are depending on you to test the application, so careful observation and documentation of problems, large or small is important. Also be aware of changes to your device. You have little control over operating system updates. The provider encourages you to update these, for good reasons. However, new versions can cause an app to fail that worked in a prior version. Be aware that updates (even small ones) can cause an application to stop working. Be sure to find out all the technical information about what device you are using, and what operating system version you have installed when logging a bug.
 
 - [ ] __[Platform](https://github.com/lana-20/select-devices-for-testing#readme)__
     - [ ] Running the app on different versions it supports
@@ -253,8 +250,7 @@ important. Also be aware of changes to your device. You have little control over
 
 __F: FUNCTION__
 
-Functional testing is the most common form of testing. It usually involves comparing the specification or requirements for an app, and verifying that the application does what it says it does. This can often be very simplistic: looking
-for items and ensuring they are there and function the way they are supposed to. To be more creative, generate test ideas by asking these questions:
+Functional testing is the most common form of testing. It usually involves comparing the specification or requirements for an app, and verifying that the application does what it says it does. This can often be very simplistic: looking for items and ensuring they are there and function the way they are supposed to. To be more creative, generate test ideas by asking these questions:
 
 ✔ Can you identify everything that the application does?
 
