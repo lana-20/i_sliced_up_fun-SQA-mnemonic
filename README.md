@@ -38,7 +38,7 @@ way and interact with it so that it causes the app you are testing to crash or f
         - [ ] Long Press
         - [ ] Two Finger Tap
         - [ ] Two Finger Scroll
-    - [ ] Voice Input
+    - [ ] Voice Input or Copy/Paste in lieu of Keystrokes
     - [ ] Built-in Keypad / Keyboard Input
     - [ ] Barcode Scanner Input
 
